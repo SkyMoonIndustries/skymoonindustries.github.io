@@ -1,0 +1,27 @@
+body {
+    color: white;
+    background-color: rgba(27,27,27,255);
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+  
+}
+
+header {
+    color: red;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+footer {
+    text-align: bottom;
+
+}
+
+a {
+    text-decoration: none;
+    color: cadetblue;
+
+}
