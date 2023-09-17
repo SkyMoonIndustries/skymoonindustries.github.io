@@ -24,6 +24,18 @@ header {
 
     }
 
+#site_name {
+    color: red;
+
+}
+
+
+}
+
+time {
+    font-family: monospace;
+    color: #888;
+    font-size: 10pt;
 }
 
 footer {
