@@ -11,8 +11,6 @@ body {
 header {
     color: red;
     text-align: center;
-    margin-right: auto;
-    margin-left: auto;
 
 }
 
@@ -78,5 +76,10 @@ footer {
 a {
     text-decoration: none;
     color: cadetblue;
+
+}
+
+p {
+    text-align: center;
 
 }
