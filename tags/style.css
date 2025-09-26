@@ -8,6 +8,26 @@ body {
   
 }
 
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 15px 30px;
+  border-bottom: 1px solid #eee;
+  font-family: inherit;
+  font-size: 17px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  transition: 0.2s;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
 header {
     color: red;
     text-align: center;
