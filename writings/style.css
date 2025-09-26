@@ -41,6 +41,18 @@ header {
   margin: 0 auto;    
 }
 
+.video-container {
+  max-width: 50%;   
+  overflow: hidden;
+}
+
+.video-container video {
+  width: 50%;
+  height: auto;     
+  display: block;
+  margin: 0 auto;    
+}
+
 #tagcloud {
     display: inline-block;
     color: white;
@@ -111,3 +123,4 @@ p {
 
 
 }
+
