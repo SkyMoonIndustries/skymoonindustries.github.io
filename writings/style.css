@@ -42,12 +42,12 @@ header {
 }
 
 .video-container {
-  max-width: 50%;   
+  max-width: 75%;   
   overflow: hidden;
 }
 
 .video-container video {
-  width: 50%;
+  width: 75%;
   height: auto;     
   display: block;
   margin: 0 auto;    
@@ -120,5 +120,6 @@ a {
 
 p {
     text-align: center;
+
 
 }
