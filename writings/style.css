@@ -35,19 +35,19 @@ header {
 }
 
 .responsive-img {
-  max-width: 75%;   
+  max-width: 50%;   
   height: auto;      
   display: block;
   margin: 0 auto;    
 }
 
 .video-container {
-  max-width: 100%;   
+  max-width: 50%;   
   overflow: hidden;
 }
 
 .video-container video {
-  width: 100%;
+  width: 50%;
   height: auto;     
   display: block;
   margin: 0 auto;    
@@ -121,8 +121,4 @@ a {
 p {
     text-align: center;
 
-
 }
-
-
-
